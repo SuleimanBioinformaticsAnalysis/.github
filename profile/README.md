@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://suleimanbioinformaticsanalysis.github.io/assets/logo.svg" alt="SuleimanBioinformaticsAnalysis Logo" width="720" />
+</p>
+
 # 🧬 SuleimanBioinformaticsAnalysis
 
 <p align="center">
